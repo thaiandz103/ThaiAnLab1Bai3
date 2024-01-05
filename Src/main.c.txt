@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <conio.h>
+int main()
+{
+printf("Hello K18.3\n");
+printf("My name Vo Thai An");
+	getch(); 
+	return 0; 
+}
